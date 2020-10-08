@@ -9,3 +9,4 @@
     appId: "1:808752379285:web:9d13ba9f5c3e5bdc24729c"
   };
  
+  export default firebaseConfig;
